@@ -2,6 +2,8 @@
 
 > Compiles HTML with SSI into static HTML pages
 
+  NOTE: This plugin will soon be rewritten to base on [node-ssi](https://github.com/kidwm/node-ssi)
+
 ## Getting Started
 This plugin requires Grunt `~0.4.2`
 
